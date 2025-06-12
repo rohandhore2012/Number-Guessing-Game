@@ -1,16 +1,3 @@
-application.properties
-
-spring.datasource.url=jdbc:mysql://localhost:3306/your_db_name
-spring.datasource.username=your_mysql_user
-spring.datasource.password=your_mysql_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
-
-spring.data.redis.host=localhost
-spring.data.redis.port=6379
-
-
 # Number Guessing Game 🎯
 
 A fun and interactive Number Guessing Game built with JavaFX.
